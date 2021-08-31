@@ -1,6 +1,9 @@
 # phdThesis_Scripts
 This repository includes the scripts used in my Phd Thesis at the University of Bayreuth, supervised by Katharina Marquardt and Marcel Thielmann.
 
+
+<a href="https://doi.org/10.5281/zenodo.5344419"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5344419.svg" alt="DOI"></a>
+
 MIT License
 
 Copyright (c) 2021 Filippe Ferreira & Katharina Marquardt
